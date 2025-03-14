@@ -1,11 +1,11 @@
-# Blockchain - Attack and Defence 
+# CPU-Scheduling
 
 ## Installations
 
 1. Clone repository:
 ```
-git clone https://github.com/Kammar1006/....git
-cd ...
+git clone https://github.com/Kammar1006/CPU-Scheduling.git
+cd CPU-Scheduling
 ```
 
 2. Set up the virtual environment:
